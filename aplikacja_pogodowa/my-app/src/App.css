@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    color:rgb(243, 147, 36);
+    
+    
+    
+  }
+  
+ 
+  body {
+    font-family: 'montseratt', sans-serif;
+    background-size: 100%;
+    background-position: bottom;
+    transition: 0.4 ease;
+    background-color: lightblue;
+    
+    
+    
+  }
+  .subpage{
+      align-items: center;
+      justify-content: center;
+      padding: 50px;
+      max-height: 200%;
+      min-height: 1vh;
+      
+  }
+
+  .subpage h1 {
+      color: white;
+      margin: 0;
+      padding: 100px;
+      text-align: center;
+      margin: 30px 30px;
+      background-color: rgba(255, 255, 255, 0.2);
+      border-radius: 5px;
+      
+    
+      
+  }
+  .subpage h2 {
+     
+      padding: 0px;
+      text-align: center;
+      margin: 30px 30px;
+      background-color: rgba(255, 255, 255, 0.2);
+      border-radius: 5px;
+      color:rgb(243, 147, 36);
+      
+      
+  }
+  .subpage h3 {
+    color:rgb(243, 147, 36);
+    padding: 0px;
+    text-align: center;
+    margin: 50px 50px;
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 5px;
+    
+  }
+  .subpage h4 {
+    color:white;
+    text-align: center;
+    position: static;
+    display: inline-block;
+    margin: 30px 30px;
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 5px;
+    padding: -40px;
+  }
+  
